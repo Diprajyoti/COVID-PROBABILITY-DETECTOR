@@ -3,3 +3,5 @@ An intelligent approach of covid-19 probability detector with Machine Learning a
 
 
 This project was patent filed and published. 
+
+
